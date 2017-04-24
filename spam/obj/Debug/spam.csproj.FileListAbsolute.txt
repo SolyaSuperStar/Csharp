@@ -1,0 +1,12 @@
+c:\users\vladk\onedrive\documents\visual studio 2017\Projects\spam\spam\bin\Debug\spam.exe.config
+c:\users\vladk\onedrive\documents\visual studio 2017\Projects\spam\spam\bin\Debug\spam.exe
+c:\users\vladk\onedrive\documents\visual studio 2017\Projects\spam\spam\bin\Debug\spam.pdb
+c:\users\vladk\onedrive\documents\visual studio 2017\Projects\spam\spam\obj\Debug\spam.csprojResolveAssemblyReference.cache
+c:\users\vladk\onedrive\documents\visual studio 2017\Projects\spam\spam\obj\Debug\spam.exe
+c:\users\vladk\onedrive\documents\visual studio 2017\Projects\spam\spam\obj\Debug\spam.pdb
+C:\Users\vladk\OneDrive\documents\visual studio 2017\Projects\spam\spam\bin\Debug\System.ValueTuple.dll
+C:\Users\vladk\OneDrive\Documents\Visual Studio 2017\Projects\spam\spam\bin\Debug\Newtonsoft.Json.dll
+C:\Users\vladk\OneDrive\Documents\Visual Studio 2017\Projects\spam\spam\bin\Debug\Newtonsoft.Json.xml
+D:\Desktop\spam\spam\bin\Debug\spam.exe.config
+D:\Desktop\spam\spam\obj\Debug\spam.exe
+D:\Desktop\spam\spam\obj\Debug\spam.pdb
